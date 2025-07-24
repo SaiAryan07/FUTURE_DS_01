@@ -1,4 +1,4 @@
-# FUTURE_ML_01
+# FUTURE_DS_01
 ## Super Store Sales Dashboard with AI-Powered Forecasting
 This project presents a highly interactive and insightful sales dashboard built using 💼 Power BI, designed to help businesses analyze and monitor key sales metrics with ease. It offers a clear breakdown of performance across product categories, customer segments, ship modes, and geographic regions across the U.S.
 
